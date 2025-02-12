@@ -1,0 +1,9 @@
+services:
+  pragmadb:
+    image: postgres
+    env_file:
+      - ./postgres_setup/setup-env.env
+    ports:
+      - 5432:5432
+    volumes:
+      - ./postgres_setup:/docker-entrypoint-initdb.d
