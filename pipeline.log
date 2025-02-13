@@ -1,0 +1,4713 @@
+[LINE:1] #INFO     [2025-02-13 18:39:17,825] ---- Inicio del Pipeline ----
+[LINE:20] #INFO     [2025-02-13 18:39:17,826] Leyendo archivo ./data/2012-1.csv
+[LINE:35] #INFO     [2025-02-13 18:39:17,828] Transformando microbatch 1
+[LINE:64] #INFO     [2025-02-13 18:39:17,977] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 1
+                
+                Columna 'price':
+                Promedio: 50.00
+                Maximo: 50
+                Minimo: 50
+
+                Tiempo de insercion fila actual: 
+                Total: 8.62 ms
+                Promedio: 8.62 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:17,983] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 2
+                
+                Columna 'price':
+                Promedio: 68.50
+                Maximo: 87
+                Minimo: 50
+
+                Tiempo de insercion fila actual: 
+                Total: 3.55 ms
+                Promedio: 6.08 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:17,989] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 3
+                
+                Columna 'price':
+                Promedio: 67.00
+                Maximo: 87
+                Minimo: 50
+
+                Tiempo de insercion fila actual: 
+                Total: 3.72 ms
+                Promedio: 5.30 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:17,996] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 4
+                
+                Columna 'price':
+                Promedio: 55.25
+                Maximo: 87
+                Minimo: 20
+
+                Tiempo de insercion fila actual: 
+                Total: 3.74 ms
+                Promedio: 4.91 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:17,997] Batch 1 procesado
+[LINE:35] #INFO     [2025-02-13 18:39:17,998] Transformando microbatch 2
+[LINE:64] #INFO     [2025-02-13 18:39:18,005] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 5
+                
+                Columna 'price':
+                Promedio: 47.00
+                Maximo: 87
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 3.55 ms
+                Promedio: 4.64 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,012] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 6
+                
+                Columna 'price':
+                Promedio: 55.00
+                Maximo: 95
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 3.66 ms
+                Promedio: 4.47 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,018] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 7
+                
+                Columna 'price':
+                Promedio: 60.71
+                Maximo: 95
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 3.60 ms
+                Promedio: 4.35 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,024] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 8
+                
+                Columna 'price':
+                Promedio: 60.88
+                Maximo: 95
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 3.27 ms
+                Promedio: 4.21 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,025] Batch 2 procesado
+[LINE:35] #INFO     [2025-02-13 18:39:18,027] Transformando microbatch 3
+[LINE:64] #INFO     [2025-02-13 18:39:18,034] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 9
+                
+                Columna 'price':
+                Promedio: 59.22
+                Maximo: 95
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 4.07 ms
+                Promedio: 4.20 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,040] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 10
+                
+                Columna 'price':
+                Promedio: 63.00
+                Maximo: 97.0
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 3.50 ms
+                Promedio: 4.13 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,046] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 11
+                
+                Columna 'price':
+                Promedio: 60.09
+                Maximo: 97.0
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 3.83 ms
+                Promedio: 4.10 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,052] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 12
+                
+                Columna 'price':
+                Promedio: 60.09
+                Maximo: 97.0
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 3.09 ms
+                Promedio: 4.02 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,053] Batch 3 procesado
+[LINE:35] #INFO     [2025-02-13 18:39:18,054] Transformando microbatch 4
+[LINE:64] #INFO     [2025-02-13 18:39:18,060] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 13
+                
+                Columna 'price':
+                Promedio: 58.17
+                Maximo: 97.0
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 3.55 ms
+                Promedio: 3.98 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,066] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 14
+                
+                Columna 'price':
+                Promedio: 59.38
+                Maximo: 97.0
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 3.22 ms
+                Promedio: 3.93 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,072] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 15
+                
+                Columna 'price':
+                Promedio: 58.36
+                Maximo: 97.0
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 3.27 ms
+                Promedio: 3.88 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,078] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 16
+                
+                Columna 'price':
+                Promedio: 56.27
+                Maximo: 97.0
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 3.24 ms
+                Promedio: 3.84 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,078] Batch 4 procesado
+[LINE:35] #INFO     [2025-02-13 18:39:18,079] Transformando microbatch 5
+[LINE:64] #INFO     [2025-02-13 18:39:18,085] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 17
+                
+                Columna 'price':
+                Promedio: 57.62
+                Maximo: 97.0
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 3.27 ms
+                Promedio: 3.81 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,094] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 18
+                
+                Columna 'price':
+                Promedio: 56.71
+                Maximo: 97.0
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 4.08 ms
+                Promedio: 3.82 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,103] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 19
+                
+                Columna 'price':
+                Promedio: 56.06
+                Maximo: 97.0
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 4.76 ms
+                Promedio: 3.87 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,109] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 20
+                
+                Columna 'price':
+                Promedio: 58.16
+                Maximo: 97.0
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 3.84 ms
+                Promedio: 3.87 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,110] Batch 5 procesado
+[LINE:35] #INFO     [2025-02-13 18:39:18,111] Transformando microbatch 6
+[LINE:64] #INFO     [2025-02-13 18:39:18,120] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 21
+                
+                Columna 'price':
+                Promedio: 58.16
+                Maximo: 97.0
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 3.90 ms
+                Promedio: 3.87 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,126] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 22
+                
+                Columna 'price':
+                Promedio: 59.65
+                Maximo: 97.0
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 3.46 ms
+                Promedio: 3.86 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,127] Batch 6 procesado
+[LINE:91] #INFO     [2025-02-13 18:39:18,127] 
+        ---- Procesamiento archivos ----
+        Archivo ./data/2012-1.csv 
+        Tiempo actual: 301.44 ms
+
+        Total de archivos
+        Tiempo promedio: 301.44 ms
+        Tiempo maximo: 301.44 ms
+        Tiempo minimo: 301.44 ms
+        
+[LINE:20] #INFO     [2025-02-13 18:39:18,128] Leyendo archivo ./data/2012-2.csv
+[LINE:35] #INFO     [2025-02-13 18:39:18,130] Transformando microbatch 1
+[LINE:64] #INFO     [2025-02-13 18:39:18,139] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 1
+                
+                Columna 'price':
+                Promedio: 76.00
+                Maximo: 76
+                Minimo: 76
+
+                Tiempo de insercion fila actual: 
+                Total: 3.92 ms
+                Promedio: 3.92 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,145] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 2
+                
+                Columna 'price':
+                Promedio: 71.00
+                Maximo: 76
+                Minimo: 66
+
+                Tiempo de insercion fila actual: 
+                Total: 3.30 ms
+                Promedio: 3.61 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,151] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 3
+                
+                Columna 'price':
+                Promedio: 63.00
+                Maximo: 76
+                Minimo: 47
+
+                Tiempo de insercion fila actual: 
+                Total: 3.20 ms
+                Promedio: 3.47 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,157] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 4
+                
+                Columna 'price':
+                Promedio: 72.25
+                Maximo: 100
+                Minimo: 47
+
+                Tiempo de insercion fila actual: 
+                Total: 3.88 ms
+                Promedio: 3.57 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,158] Batch 1 procesado
+[LINE:35] #INFO     [2025-02-13 18:39:18,159] Transformando microbatch 2
+[LINE:64] #INFO     [2025-02-13 18:39:18,166] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 5
+                
+                Columna 'price':
+                Promedio: 61.60
+                Maximo: 100
+                Minimo: 19
+
+                Tiempo de insercion fila actual: 
+                Total: 3.47 ms
+                Promedio: 3.55 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,171] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 6
+                
+                Columna 'price':
+                Promedio: 61.17
+                Maximo: 100
+                Minimo: 19
+
+                Tiempo de insercion fila actual: 
+                Total: 3.08 ms
+                Promedio: 3.48 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,176] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 7
+                
+                Columna 'price':
+                Promedio: 63.43
+                Maximo: 100
+                Minimo: 19
+
+                Tiempo de insercion fila actual: 
+                Total: 3.14 ms
+                Promedio: 3.43 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,183] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 8
+                
+                Columna 'price':
+                Promedio: 68.00
+                Maximo: 100
+                Minimo: 19
+
+                Tiempo de insercion fila actual: 
+                Total: 4.30 ms
+                Promedio: 3.54 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,183] Batch 2 procesado
+[LINE:35] #INFO     [2025-02-13 18:39:18,185] Transformando microbatch 3
+[LINE:64] #INFO     [2025-02-13 18:39:18,191] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 9
+                
+                Columna 'price':
+                Promedio: 66.56
+                Maximo: 100
+                Minimo: 19
+
+                Tiempo de insercion fila actual: 
+                Total: 2.89 ms
+                Promedio: 3.47 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,196] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 10
+                
+                Columna 'price':
+                Promedio: 61.80
+                Maximo: 100
+                Minimo: 19
+
+                Tiempo de insercion fila actual: 
+                Total: 3.29 ms
+                Promedio: 3.45 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,202] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 11
+                
+                Columna 'price':
+                Promedio: 64.82
+                Maximo: 100
+                Minimo: 19
+
+                Tiempo de insercion fila actual: 
+                Total: 3.41 ms
+                Promedio: 3.44 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,207] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 12
+                
+                Columna 'price':
+                Promedio: 65.50
+                Maximo: 100
+                Minimo: 19
+
+                Tiempo de insercion fila actual: 
+                Total: 3.50 ms
+                Promedio: 3.45 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,208] Batch 3 procesado
+[LINE:35] #INFO     [2025-02-13 18:39:18,209] Transformando microbatch 4
+[LINE:64] #INFO     [2025-02-13 18:39:18,216] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 13
+                
+                Columna 'price':
+                Promedio: 62.92
+                Maximo: 100
+                Minimo: 19
+
+                Tiempo de insercion fila actual: 
+                Total: 2.96 ms
+                Promedio: 3.41 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,221] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 14
+                
+                Columna 'price':
+                Promedio: 65.21
+                Maximo: 100
+                Minimo: 19
+
+                Tiempo de insercion fila actual: 
+                Total: 3.47 ms
+                Promedio: 3.42 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,227] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 15
+                
+                Columna 'price':
+                Promedio: 61.67
+                Maximo: 100
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.31 ms
+                Promedio: 3.41 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,233] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 16
+                
+                Columna 'price':
+                Promedio: 60.12
+                Maximo: 100
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.51 ms
+                Promedio: 3.41 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,233] Batch 4 procesado
+[LINE:35] #INFO     [2025-02-13 18:39:18,234] Transformando microbatch 5
+[LINE:64] #INFO     [2025-02-13 18:39:18,241] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 17
+                
+                Columna 'price':
+                Promedio: 58.24
+                Maximo: 100
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.02 ms
+                Promedio: 3.39 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,246] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 18
+                
+                Columna 'price':
+                Promedio: 55.56
+                Maximo: 100
+                Minimo: 10
+
+                Tiempo de insercion fila actual: 
+                Total: 3.26 ms
+                Promedio: 3.38 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,252] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 19
+                
+                Columna 'price':
+                Promedio: 54.05
+                Maximo: 100
+                Minimo: 10
+
+                Tiempo de insercion fila actual: 
+                Total: 3.34 ms
+                Promedio: 3.38 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,258] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 20
+                
+                Columna 'price':
+                Promedio: 52.05
+                Maximo: 100
+                Minimo: 10
+
+                Tiempo de insercion fila actual: 
+                Total: 3.30 ms
+                Promedio: 3.38 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,258] Batch 5 procesado
+[LINE:35] #INFO     [2025-02-13 18:39:18,259] Transformando microbatch 6
+[LINE:64] #INFO     [2025-02-13 18:39:18,266] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 21
+                
+                Columna 'price':
+                Promedio: 53.71
+                Maximo: 100
+                Minimo: 10
+
+                Tiempo de insercion fila actual: 
+                Total: 2.95 ms
+                Promedio: 3.36 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,271] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 22
+                
+                Columna 'price':
+                Promedio: 54.68
+                Maximo: 100
+                Minimo: 10
+
+                Tiempo de insercion fila actual: 
+                Total: 3.16 ms
+                Promedio: 3.35 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,277] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 23
+                
+                Columna 'price':
+                Promedio: 53.87
+                Maximo: 100
+                Minimo: 10
+
+                Tiempo de insercion fila actual: 
+                Total: 3.64 ms
+                Promedio: 3.36 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,283] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 24
+                
+                Columna 'price':
+                Promedio: 55.12
+                Maximo: 100
+                Minimo: 10
+
+                Tiempo de insercion fila actual: 
+                Total: 3.58 ms
+                Promedio: 3.37 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,284] Batch 6 procesado
+[LINE:35] #INFO     [2025-02-13 18:39:18,285] Transformando microbatch 7
+[LINE:64] #INFO     [2025-02-13 18:39:18,291] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 25
+                
+                Columna 'price':
+                Promedio: 55.40
+                Maximo: 100
+                Minimo: 10
+
+                Tiempo de insercion fila actual: 
+                Total: 3.13 ms
+                Promedio: 3.36 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,297] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 26
+                
+                Columna 'price':
+                Promedio: 55.42
+                Maximo: 100
+                Minimo: 10
+
+                Tiempo de insercion fila actual: 
+                Total: 3.24 ms
+                Promedio: 3.36 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,303] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 27
+                
+                Columna 'price':
+                Promedio: 54.00
+                Maximo: 100
+                Minimo: 10
+
+                Tiempo de insercion fila actual: 
+                Total: 3.40 ms
+                Promedio: 3.36 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,308] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 28
+                
+                Columna 'price':
+                Promedio: 54.36
+                Maximo: 100
+                Minimo: 10
+
+                Tiempo de insercion fila actual: 
+                Total: 3.27 ms
+                Promedio: 3.35 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,308] Batch 7 procesado
+[LINE:35] #INFO     [2025-02-13 18:39:18,309] Transformando microbatch 8
+[LINE:64] #INFO     [2025-02-13 18:39:18,316] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 29
+                
+                Columna 'price':
+                Promedio: 54.83
+                Maximo: 100
+                Minimo: 10
+
+                Tiempo de insercion fila actual: 
+                Total: 3.31 ms
+                Promedio: 3.35 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,317] Batch 8 procesado
+[LINE:91] #INFO     [2025-02-13 18:39:18,317] 
+        ---- Procesamiento archivos ----
+        Archivo ./data/2012-2.csv 
+        Tiempo actual: 189.23 ms
+
+        Total de archivos
+        Tiempo promedio: 245.33 ms
+        Tiempo maximo: 301.44 ms
+        Tiempo minimo: 189.23 ms
+        
+[LINE:20] #INFO     [2025-02-13 18:39:18,318] Leyendo archivo ./data/2012-3.csv
+[LINE:35] #INFO     [2025-02-13 18:39:18,319] Transformando microbatch 1
+[LINE:64] #INFO     [2025-02-13 18:39:18,326] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 1
+                
+                Columna 'price':
+                Promedio: 75.00
+                Maximo: 75
+                Minimo: 75
+
+                Tiempo de insercion fila actual: 
+                Total: 3.20 ms
+                Promedio: 3.20 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,332] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 2
+                
+                Columna 'price':
+                Promedio: 43.50
+                Maximo: 75
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.28 ms
+                Promedio: 3.24 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,338] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 3
+                
+                Columna 'price':
+                Promedio: 52.67
+                Maximo: 75
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.69 ms
+                Promedio: 3.39 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,343] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 4
+                
+                Columna 'price':
+                Promedio: 57.75
+                Maximo: 75
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.24 ms
+                Promedio: 3.35 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,344] Batch 1 procesado
+[LINE:35] #INFO     [2025-02-13 18:39:18,345] Transformando microbatch 2
+[LINE:64] #INFO     [2025-02-13 18:39:18,352] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 5
+                
+                Columna 'price':
+                Promedio: 50.40
+                Maximo: 75
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.02 ms
+                Promedio: 3.28 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,357] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 6
+                
+                Columna 'price':
+                Promedio: 46.50
+                Maximo: 75
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.44 ms
+                Promedio: 3.31 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,363] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 7
+                
+                Columna 'price':
+                Promedio: 51.43
+                Maximo: 81
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.24 ms
+                Promedio: 3.30 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,369] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 8
+                
+                Columna 'price':
+                Promedio: 57.38
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.68 ms
+                Promedio: 3.35 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,369] Batch 2 procesado
+[LINE:35] #INFO     [2025-02-13 18:39:18,371] Transformando microbatch 3
+[LINE:64] #INFO     [2025-02-13 18:39:18,377] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 9
+                
+                Columna 'price':
+                Promedio: 58.67
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.04 ms
+                Promedio: 3.31 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,383] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 10
+                
+                Columna 'price':
+                Promedio: 54.70
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.54 ms
+                Promedio: 3.34 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,388] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 11
+                
+                Columna 'price':
+                Promedio: 52.64
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.36 ms
+                Promedio: 3.34 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,393] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 12
+                
+                Columna 'price':
+                Promedio: 56.17
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 2.98 ms
+                Promedio: 3.31 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,394] Batch 3 procesado
+[LINE:35] #INFO     [2025-02-13 18:39:18,395] Transformando microbatch 4
+[LINE:64] #INFO     [2025-02-13 18:39:18,402] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 13
+                
+                Columna 'price':
+                Promedio: 57.31
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.18 ms
+                Promedio: 3.30 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,407] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 14
+                
+                Columna 'price':
+                Promedio: 57.71
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.49 ms
+                Promedio: 3.31 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,414] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 15
+                
+                Columna 'price':
+                Promedio: 57.40
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.43 ms
+                Promedio: 3.32 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,419] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 16
+                
+                Columna 'price':
+                Promedio: 59.25
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 2.92 ms
+                Promedio: 3.29 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,419] Batch 4 procesado
+[LINE:35] #INFO     [2025-02-13 18:39:18,420] Transformando microbatch 5
+[LINE:64] #INFO     [2025-02-13 18:39:18,427] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 17
+                
+                Columna 'price':
+                Promedio: 61.00
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.08 ms
+                Promedio: 3.28 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,432] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 18
+                
+                Columna 'price':
+                Promedio: 58.33
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.30 ms
+                Promedio: 3.28 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,438] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 19
+                
+                Columna 'price':
+                Promedio: 59.16
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.54 ms
+                Promedio: 3.30 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,443] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 20
+                
+                Columna 'price':
+                Promedio: 60.40
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 2.94 ms
+                Promedio: 3.28 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,444] Batch 5 procesado
+[LINE:35] #INFO     [2025-02-13 18:39:18,445] Transformando microbatch 6
+[LINE:64] #INFO     [2025-02-13 18:39:18,452] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 21
+                
+                Columna 'price':
+                Promedio: 58.38
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.21 ms
+                Promedio: 3.28 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,458] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 22
+                
+                Columna 'price':
+                Promedio: 57.18
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.50 ms
+                Promedio: 3.29 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,465] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 23
+                
+                Columna 'price':
+                Promedio: 58.87
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.59 ms
+                Promedio: 3.30 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,470] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 24
+                
+                Columna 'price':
+                Promedio: 58.67
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 2.92 ms
+                Promedio: 3.28 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,470] Batch 6 procesado
+[LINE:35] #INFO     [2025-02-13 18:39:18,471] Transformando microbatch 7
+[LINE:64] #INFO     [2025-02-13 18:39:18,478] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 25
+                
+                Columna 'price':
+                Promedio: 59.60
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.20 ms
+                Promedio: 3.28 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,483] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 26
+                
+                Columna 'price':
+                Promedio: 60.15
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.31 ms
+                Promedio: 3.28 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,490] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 27
+                
+                Columna 'price':
+                Promedio: 60.11
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.83 ms
+                Promedio: 3.30 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,495] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 28
+                
+                Columna 'price':
+                Promedio: 59.14
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 2.99 ms
+                Promedio: 3.29 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,495] Batch 7 procesado
+[LINE:35] #INFO     [2025-02-13 18:39:18,496] Transformando microbatch 8
+[LINE:64] #INFO     [2025-02-13 18:39:18,504] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 29
+                
+                Columna 'price':
+                Promedio: 58.69
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.45 ms
+                Promedio: 3.30 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,509] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 30
+                
+                Columna 'price':
+                Promedio: 59.50
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.29 ms
+                Promedio: 3.30 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,515] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 31
+                
+                Columna 'price':
+                Promedio: 59.68
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.64 ms
+                Promedio: 3.31 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,515] Batch 8 procesado
+[LINE:91] #INFO     [2025-02-13 18:39:18,516] 
+        ---- Procesamiento archivos ----
+        Archivo ./data/2012-3.csv 
+        Tiempo actual: 198.22 ms
+
+        Total de archivos
+        Tiempo promedio: 229.63 ms
+        Tiempo maximo: 301.44 ms
+        Tiempo minimo: 189.23 ms
+        
+[LINE:20] #INFO     [2025-02-13 18:39:18,516] Leyendo archivo ./data/2012-4.csv
+[LINE:35] #INFO     [2025-02-13 18:39:18,518] Transformando microbatch 1
+[LINE:64] #INFO     [2025-02-13 18:39:18,524] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 1
+                
+                Columna 'price':
+                Promedio: 87.00
+                Maximo: 87
+                Minimo: 87
+
+                Tiempo de insercion fila actual: 
+                Total: 3.25 ms
+                Promedio: 3.25 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,530] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 2
+                
+                Columna 'price':
+                Promedio: 65.00
+                Maximo: 87
+                Minimo: 43
+
+                Tiempo de insercion fila actual: 
+                Total: 3.48 ms
+                Promedio: 3.36 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,536] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 3
+                
+                Columna 'price':
+                Promedio: 51.00
+                Maximo: 87
+                Minimo: 23
+
+                Tiempo de insercion fila actual: 
+                Total: 3.22 ms
+                Promedio: 3.32 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,542] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 4
+                
+                Columna 'price':
+                Promedio: 61.00
+                Maximo: 91
+                Minimo: 23
+
+                Tiempo de insercion fila actual: 
+                Total: 3.64 ms
+                Promedio: 3.40 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,543] Batch 1 procesado
+[LINE:35] #INFO     [2025-02-13 18:39:18,544] Transformando microbatch 2
+[LINE:64] #INFO     [2025-02-13 18:39:18,550] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 5
+                
+                Columna 'price':
+                Promedio: 65.00
+                Maximo: 91
+                Minimo: 23
+
+                Tiempo de insercion fila actual: 
+                Total: 3.14 ms
+                Promedio: 3.35 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,556] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 6
+                
+                Columna 'price':
+                Promedio: 65.50
+                Maximo: 91
+                Minimo: 23
+
+                Tiempo de insercion fila actual: 
+                Total: 3.50 ms
+                Promedio: 3.37 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,561] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 7
+                
+                Columna 'price':
+                Promedio: 64.86
+                Maximo: 91
+                Minimo: 23
+
+                Tiempo de insercion fila actual: 
+                Total: 3.22 ms
+                Promedio: 3.35 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,567] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 8
+                
+                Columna 'price':
+                Promedio: 58.38
+                Maximo: 91
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.53 ms
+                Promedio: 3.37 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,568] Batch 2 procesado
+[LINE:35] #INFO     [2025-02-13 18:39:18,569] Transformando microbatch 3
+[LINE:64] #INFO     [2025-02-13 18:39:18,576] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 9
+                
+                Columna 'price':
+                Promedio: 53.22
+                Maximo: 91
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.28 ms
+                Promedio: 3.36 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,581] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 10
+                
+                Columna 'price':
+                Promedio: 54.00
+                Maximo: 91
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.54 ms
+                Promedio: 3.38 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,587] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 11
+                
+                Columna 'price':
+                Promedio: 54.82
+                Maximo: 91
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.61 ms
+                Promedio: 3.40 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,593] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 12
+                
+                Columna 'price':
+                Promedio: 57.58
+                Maximo: 91
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.55 ms
+                Promedio: 3.41 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,594] Batch 3 procesado
+[LINE:35] #INFO     [2025-02-13 18:39:18,595] Transformando microbatch 4
+[LINE:64] #INFO     [2025-02-13 18:39:18,601] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 13
+                
+                Columna 'price':
+                Promedio: 58.00
+                Maximo: 91
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.20 ms
+                Promedio: 3.40 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,607] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 14
+                
+                Columna 'price':
+                Promedio: 57.43
+                Maximo: 91
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.36 ms
+                Promedio: 3.39 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,613] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 15
+                
+                Columna 'price':
+                Promedio: 60.07
+                Maximo: 97
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.35 ms
+                Promedio: 3.39 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,619] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 16
+                
+                Columna 'price':
+                Promedio: 61.94
+                Maximo: 97
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.47 ms
+                Promedio: 3.40 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,619] Batch 4 procesado
+[LINE:35] #INFO     [2025-02-13 18:39:18,621] Transformando microbatch 5
+[LINE:64] #INFO     [2025-02-13 18:39:18,627] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 17
+                
+                Columna 'price':
+                Promedio: 61.94
+                Maximo: 97
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.20 ms
+                Promedio: 3.38 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,633] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 18
+                
+                Columna 'price':
+                Promedio: 62.94
+                Maximo: 97
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.42 ms
+                Promedio: 3.39 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,639] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 19
+                
+                Columna 'price':
+                Promedio: 60.00
+                Maximo: 97
+                Minimo: 10.0
+
+                Tiempo de insercion fila actual: 
+                Total: 3.34 ms
+                Promedio: 3.38 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,645] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 20
+                
+                Columna 'price':
+                Promedio: 57.95
+                Maximo: 97
+                Minimo: 10.0
+
+                Tiempo de insercion fila actual: 
+                Total: 3.36 ms
+                Promedio: 3.38 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,645] Batch 5 procesado
+[LINE:35] #INFO     [2025-02-13 18:39:18,646] Transformando microbatch 6
+[LINE:64] #INFO     [2025-02-13 18:39:18,653] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 21
+                
+                Columna 'price':
+                Promedio: 58.45
+                Maximo: 97
+                Minimo: 10.0
+
+                Tiempo de insercion fila actual: 
+                Total: 3.16 ms
+                Promedio: 3.37 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,658] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 22
+                
+                Columna 'price':
+                Promedio: 59.33
+                Maximo: 97
+                Minimo: 10.0
+
+                Tiempo de insercion fila actual: 
+                Total: 3.16 ms
+                Promedio: 3.36 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,664] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 23
+                
+                Columna 'price':
+                Promedio: 57.50
+                Maximo: 97
+                Minimo: 10.0
+
+                Tiempo de insercion fila actual: 
+                Total: 3.53 ms
+                Promedio: 3.37 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,670] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 24
+                
+                Columna 'price':
+                Promedio: 58.57
+                Maximo: 97
+                Minimo: 10.0
+
+                Tiempo de insercion fila actual: 
+                Total: 3.32 ms
+                Promedio: 3.37 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,671] Batch 6 procesado
+[LINE:35] #INFO     [2025-02-13 18:39:18,672] Transformando microbatch 7
+[LINE:64] #INFO     [2025-02-13 18:39:18,679] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 25
+                
+                Columna 'price':
+                Promedio: 57.92
+                Maximo: 97
+                Minimo: 10.0
+
+                Tiempo de insercion fila actual: 
+                Total: 3.53 ms
+                Promedio: 3.37 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,685] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 26
+                
+                Columna 'price':
+                Promedio: 57.80
+                Maximo: 97
+                Minimo: 10.0
+
+                Tiempo de insercion fila actual: 
+                Total: 2.98 ms
+                Promedio: 3.36 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,690] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 27
+                
+                Columna 'price':
+                Promedio: 57.80
+                Maximo: 97
+                Minimo: 10.0
+
+                Tiempo de insercion fila actual: 
+                Total: 3.52 ms
+                Promedio: 3.37 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,696] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 28
+                
+                Columna 'price':
+                Promedio: 57.62
+                Maximo: 97
+                Minimo: 10.0
+
+                Tiempo de insercion fila actual: 
+                Total: 3.31 ms
+                Promedio: 3.36 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,697] Batch 7 procesado
+[LINE:35] #INFO     [2025-02-13 18:39:18,698] Transformando microbatch 8
+[LINE:64] #INFO     [2025-02-13 18:39:18,705] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 29
+                
+                Columna 'price':
+                Promedio: 56.70
+                Maximo: 97
+                Minimo: 10.0
+
+                Tiempo de insercion fila actual: 
+                Total: 3.14 ms
+                Promedio: 3.36 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,710] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 30
+                
+                Columna 'price':
+                Promedio: 57.39
+                Maximo: 97
+                Minimo: 10.0
+
+                Tiempo de insercion fila actual: 
+                Total: 3.06 ms
+                Promedio: 3.35 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,710] Batch 8 procesado
+[LINE:91] #INFO     [2025-02-13 18:39:18,711] 
+        ---- Procesamiento archivos ----
+        Archivo ./data/2012-4.csv 
+        Tiempo actual: 194.32 ms
+
+        Total de archivos
+        Tiempo promedio: 220.80 ms
+        Tiempo maximo: 301.44 ms
+        Tiempo minimo: 189.23 ms
+        
+[LINE:20] #INFO     [2025-02-13 18:39:18,711] Leyendo archivo ./data/2012-5.csv
+[LINE:35] #INFO     [2025-02-13 18:39:18,713] Transformando microbatch 1
+[LINE:64] #INFO     [2025-02-13 18:39:18,721] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 1
+                
+                Columna 'price':
+                Promedio: 82.00
+                Maximo: 82
+                Minimo: 82
+
+                Tiempo de insercion fila actual: 
+                Total: 3.41 ms
+                Promedio: 3.41 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,728] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 2
+                
+                Columna 'price':
+                Promedio: 71.50
+                Maximo: 82
+                Minimo: 61
+
+                Tiempo de insercion fila actual: 
+                Total: 4.73 ms
+                Promedio: 4.07 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,734] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 3
+                
+                Columna 'price':
+                Promedio: 54.00
+                Maximo: 82
+                Minimo: 19
+
+                Tiempo de insercion fila actual: 
+                Total: 3.05 ms
+                Promedio: 3.73 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,739] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 4
+                
+                Columna 'price':
+                Promedio: 64.00
+                Maximo: 94
+                Minimo: 19
+
+                Tiempo de insercion fila actual: 
+                Total: 3.29 ms
+                Promedio: 3.62 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,740] Batch 1 procesado
+[LINE:35] #INFO     [2025-02-13 18:39:18,741] Transformando microbatch 2
+[LINE:64] #INFO     [2025-02-13 18:39:18,748] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 5
+                
+                Columna 'price':
+                Promedio: 54.60
+                Maximo: 94
+                Minimo: 17
+
+                Tiempo de insercion fila actual: 
+                Total: 3.32 ms
+                Promedio: 3.56 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,753] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 6
+                
+                Columna 'price':
+                Promedio: 48.67
+                Maximo: 94
+                Minimo: 17
+
+                Tiempo de insercion fila actual: 
+                Total: 3.46 ms
+                Promedio: 3.54 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,759] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 7
+                
+                Columna 'price':
+                Promedio: 51.14
+                Maximo: 94
+                Minimo: 17
+
+                Tiempo de insercion fila actual: 
+                Total: 2.90 ms
+                Promedio: 3.45 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,764] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 8
+                
+                Columna 'price':
+                Promedio: 46.38
+                Maximo: 94
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.28 ms
+                Promedio: 3.43 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,764] Batch 2 procesado
+[LINE:35] #INFO     [2025-02-13 18:39:18,766] Transformando microbatch 3
+[LINE:64] #INFO     [2025-02-13 18:39:18,773] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 9
+                
+                Columna 'price':
+                Promedio: 44.67
+                Maximo: 94
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.79 ms
+                Promedio: 3.47 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,778] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 10
+                
+                Columna 'price':
+                Promedio: 49.70
+                Maximo: 95
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.26 ms
+                Promedio: 3.45 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,784] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 11
+                
+                Columna 'price':
+                Promedio: 52.18
+                Maximo: 95
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.30 ms
+                Promedio: 3.43 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,789] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 12
+                
+                Columna 'price':
+                Promedio: 49.17
+                Maximo: 95
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.17 ms
+                Promedio: 3.41 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,790] Batch 3 procesado
+[LINE:35] #INFO     [2025-02-13 18:39:18,791] Transformando microbatch 4
+[LINE:64] #INFO     [2025-02-13 18:39:18,800] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 13
+                
+                Columna 'price':
+                Promedio: 47.08
+                Maximo: 95
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.98 ms
+                Promedio: 3.46 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,808] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 14
+                
+                Columna 'price':
+                Promedio: 50.21
+                Maximo: 95
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 4.27 ms
+                Promedio: 3.51 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,815] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 15
+                
+                Columna 'price':
+                Promedio: 49.80
+                Maximo: 95
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.82 ms
+                Promedio: 3.53 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,822] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 16
+                
+                Columna 'price':
+                Promedio: 51.94
+                Maximo: 95
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.97 ms
+                Promedio: 3.56 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,823] Batch 4 procesado
+[LINE:35] #INFO     [2025-02-13 18:39:18,824] Transformando microbatch 5
+[LINE:64] #INFO     [2025-02-13 18:39:18,832] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 17
+                
+                Columna 'price':
+                Promedio: 52.65
+                Maximo: 95
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.82 ms
+                Promedio: 3.58 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,840] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 18
+                
+                Columna 'price':
+                Promedio: 54.33
+                Maximo: 95
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.81 ms
+                Promedio: 3.59 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,845] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 19
+                
+                Columna 'price':
+                Promedio: 53.05
+                Maximo: 95
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.06 ms
+                Promedio: 3.56 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,851] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 20
+                
+                Columna 'price':
+                Promedio: 53.50
+                Maximo: 95
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.33 ms
+                Promedio: 3.55 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,852] Batch 5 procesado
+[LINE:35] #INFO     [2025-02-13 18:39:18,853] Transformando microbatch 6
+[LINE:64] #INFO     [2025-02-13 18:39:18,859] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 21
+                
+                Columna 'price':
+                Promedio: 55.19
+                Maximo: 95
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.33 ms
+                Promedio: 3.54 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,865] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 22
+                
+                Columna 'price':
+                Promedio: 56.68
+                Maximo: 95
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.39 ms
+                Promedio: 3.53 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,870] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 23
+                
+                Columna 'price':
+                Promedio: 55.70
+                Maximo: 95
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.18 ms
+                Promedio: 3.52 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,876] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 24
+                
+                Columna 'price':
+                Promedio: 57.54
+                Maximo: 100
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.48 ms
+                Promedio: 3.52 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,876] Batch 6 procesado
+[LINE:35] #INFO     [2025-02-13 18:39:18,877] Transformando microbatch 7
+[LINE:64] #INFO     [2025-02-13 18:39:18,884] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 25
+                
+                Columna 'price':
+                Promedio: 58.32
+                Maximo: 100
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.11 ms
+                Promedio: 3.50 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,889] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 26
+                
+                Columna 'price':
+                Promedio: 59.58
+                Maximo: 100
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.70 ms
+                Promedio: 3.51 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,895] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 27
+                
+                Columna 'price':
+                Promedio: 59.63
+                Maximo: 100
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 2.99 ms
+                Promedio: 3.49 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,900] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 28
+                
+                Columna 'price':
+                Promedio: 59.89
+                Maximo: 100
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.41 ms
+                Promedio: 3.49 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,901] Batch 7 procesado
+[LINE:35] #INFO     [2025-02-13 18:39:18,902] Transformando microbatch 8
+[LINE:64] #INFO     [2025-02-13 18:39:18,909] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 29
+                
+                Columna 'price':
+                Promedio: 59.17
+                Maximo: 100
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.31 ms
+                Promedio: 3.48 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,915] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 30
+                
+                Columna 'price':
+                Promedio: 59.10
+                Maximo: 100
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.85 ms
+                Promedio: 3.49 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:39:18,920] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 31
+                
+                Columna 'price':
+                Promedio: 58.26
+                Maximo: 100
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.00 ms
+                Promedio: 3.48 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:39:18,921] Batch 8 procesado
+[LINE:91] #INFO     [2025-02-13 18:39:18,921] 
+        ---- Procesamiento archivos ----
+        Archivo ./data/2012-5.csv 
+        Tiempo actual: 209.79 ms
+
+        Total de archivos
+        Tiempo promedio: 218.60 ms
+        Tiempo maximo: 301.44 ms
+        Tiempo minimo: 189.23 ms
+        
+[LINE:2] #INFO     [2025-02-13 18:39:24,715] Validando informacion
+[LINE:2] #INFO     [2025-02-13 18:39:53,677] Validando informacion
+[LINE:4] #INFO     [2025-02-13 18:39:53,689] 
+    Total de registros: 302
+    Precio maximo: 100.0
+    Precio minimo: 10.0
+    Precio promedio: 57.01
+
+[LINE:1] #INFO     [2025-02-13 18:40:45,652] ---- Inicio del Pipeline ----
+[LINE:20] #INFO     [2025-02-13 18:40:45,653] Leyendo archivo ./data/2012-1.csv
+[LINE:35] #INFO     [2025-02-13 18:40:45,655] Transformando microbatch 1
+[LINE:64] #INFO     [2025-02-13 18:40:45,730] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 1
+                
+                Columna 'price':
+                Promedio: 50.00
+                Maximo: 50
+                Minimo: 50
+
+                Tiempo de insercion fila actual: 
+                Total: 3.81 ms
+                Promedio: 3.81 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:45,737] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 2
+                
+                Columna 'price':
+                Promedio: 68.50
+                Maximo: 87
+                Minimo: 50
+
+                Tiempo de insercion fila actual: 
+                Total: 3.24 ms
+                Promedio: 3.53 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:45,744] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 3
+                
+                Columna 'price':
+                Promedio: 67.00
+                Maximo: 87
+                Minimo: 50
+
+                Tiempo de insercion fila actual: 
+                Total: 3.54 ms
+                Promedio: 3.53 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:45,752] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 4
+                
+                Columna 'price':
+                Promedio: 55.25
+                Maximo: 87
+                Minimo: 20
+
+                Tiempo de insercion fila actual: 
+                Total: 3.54 ms
+                Promedio: 3.53 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:45,752] Batch 1 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:45,754] Transformando microbatch 2
+[LINE:64] #INFO     [2025-02-13 18:40:45,763] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 5
+                
+                Columna 'price':
+                Promedio: 47.00
+                Maximo: 87
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 4.03 ms
+                Promedio: 3.63 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:45,770] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 6
+                
+                Columna 'price':
+                Promedio: 55.00
+                Maximo: 95
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 3.30 ms
+                Promedio: 3.58 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:45,778] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 7
+                
+                Columna 'price':
+                Promedio: 60.71
+                Maximo: 95
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 4.00 ms
+                Promedio: 3.64 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:45,785] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 8
+                
+                Columna 'price':
+                Promedio: 60.88
+                Maximo: 95
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 3.02 ms
+                Promedio: 3.56 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:45,785] Batch 2 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:45,787] Transformando microbatch 3
+[LINE:64] #INFO     [2025-02-13 18:40:45,796] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 9
+                
+                Columna 'price':
+                Promedio: 59.22
+                Maximo: 95
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 3.57 ms
+                Promedio: 3.56 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:45,803] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 10
+                
+                Columna 'price':
+                Promedio: 63.00
+                Maximo: 97.0
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 3.40 ms
+                Promedio: 3.55 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:45,810] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 11
+                
+                Columna 'price':
+                Promedio: 60.09
+                Maximo: 97.0
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 3.12 ms
+                Promedio: 3.51 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:45,817] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 12
+                
+                Columna 'price':
+                Promedio: 60.09
+                Maximo: 97.0
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 3.41 ms
+                Promedio: 3.50 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:45,818] Batch 3 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:45,819] Transformando microbatch 4
+[LINE:64] #INFO     [2025-02-13 18:40:45,827] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 13
+                
+                Columna 'price':
+                Promedio: 58.17
+                Maximo: 97.0
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 3.31 ms
+                Promedio: 3.48 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:45,834] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 14
+                
+                Columna 'price':
+                Promedio: 59.38
+                Maximo: 97.0
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 3.14 ms
+                Promedio: 3.46 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:45,842] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 15
+                
+                Columna 'price':
+                Promedio: 58.36
+                Maximo: 97.0
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 3.65 ms
+                Promedio: 3.47 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:45,849] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 16
+                
+                Columna 'price':
+                Promedio: 56.27
+                Maximo: 97.0
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 3.25 ms
+                Promedio: 3.46 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:45,849] Batch 4 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:45,851] Transformando microbatch 5
+[LINE:64] #INFO     [2025-02-13 18:40:45,860] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 17
+                
+                Columna 'price':
+                Promedio: 57.62
+                Maximo: 97.0
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 3.33 ms
+                Promedio: 3.45 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:45,866] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 18
+                
+                Columna 'price':
+                Promedio: 56.71
+                Maximo: 97.0
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 2.80 ms
+                Promedio: 3.41 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:45,874] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 19
+                
+                Columna 'price':
+                Promedio: 56.06
+                Maximo: 97.0
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 3.31 ms
+                Promedio: 3.41 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:45,880] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 20
+                
+                Columna 'price':
+                Promedio: 58.16
+                Maximo: 97.0
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 2.73 ms
+                Promedio: 3.38 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:45,880] Batch 5 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:45,882] Transformando microbatch 6
+[LINE:64] #INFO     [2025-02-13 18:40:45,890] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 21
+                
+                Columna 'price':
+                Promedio: 58.16
+                Maximo: 97.0
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 3.18 ms
+                Promedio: 3.37 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:45,896] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 22
+                
+                Columna 'price':
+                Promedio: 59.65
+                Maximo: 97.0
+                Minimo: 14
+
+                Tiempo de insercion fila actual: 
+                Total: 3.52 ms
+                Promedio: 3.37 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:45,897] Batch 6 procesado
+[LINE:91] #INFO     [2025-02-13 18:40:45,897] 
+        ---- Procesamiento archivos ----
+        Archivo ./data/2012-1.csv 
+        Tiempo actual: 244.22 ms
+
+        Total de archivos
+        Tiempo promedio: 244.22 ms
+        Tiempo maximo: 244.22 ms
+        Tiempo minimo: 244.22 ms
+        
+[LINE:20] #INFO     [2025-02-13 18:40:45,898] Leyendo archivo ./data/2012-2.csv
+[LINE:35] #INFO     [2025-02-13 18:40:45,899] Transformando microbatch 1
+[LINE:64] #INFO     [2025-02-13 18:40:45,907] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 1
+                
+                Columna 'price':
+                Promedio: 76.00
+                Maximo: 76
+                Minimo: 76
+
+                Tiempo de insercion fila actual: 
+                Total: 3.16 ms
+                Promedio: 3.16 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:45,913] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 2
+                
+                Columna 'price':
+                Promedio: 71.00
+                Maximo: 76
+                Minimo: 66
+
+                Tiempo de insercion fila actual: 
+                Total: 2.75 ms
+                Promedio: 2.95 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:45,920] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 3
+                
+                Columna 'price':
+                Promedio: 63.00
+                Maximo: 76
+                Minimo: 47
+
+                Tiempo de insercion fila actual: 
+                Total: 3.18 ms
+                Promedio: 3.03 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:45,927] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 4
+                
+                Columna 'price':
+                Promedio: 72.25
+                Maximo: 100
+                Minimo: 47
+
+                Tiempo de insercion fila actual: 
+                Total: 2.78 ms
+                Promedio: 2.97 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:45,927] Batch 1 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:45,928] Transformando microbatch 2
+[LINE:64] #INFO     [2025-02-13 18:40:45,937] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 5
+                
+                Columna 'price':
+                Promedio: 61.60
+                Maximo: 100
+                Minimo: 19
+
+                Tiempo de insercion fila actual: 
+                Total: 3.90 ms
+                Promedio: 3.15 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:45,944] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 6
+                
+                Columna 'price':
+                Promedio: 61.17
+                Maximo: 100
+                Minimo: 19
+
+                Tiempo de insercion fila actual: 
+                Total: 2.78 ms
+                Promedio: 3.09 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:45,951] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 7
+                
+                Columna 'price':
+                Promedio: 63.43
+                Maximo: 100
+                Minimo: 19
+
+                Tiempo de insercion fila actual: 
+                Total: 3.41 ms
+                Promedio: 3.14 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:45,958] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 8
+                
+                Columna 'price':
+                Promedio: 68.00
+                Maximo: 100
+                Minimo: 19
+
+                Tiempo de insercion fila actual: 
+                Total: 2.96 ms
+                Promedio: 3.12 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:45,958] Batch 2 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:45,959] Transformando microbatch 3
+[LINE:64] #INFO     [2025-02-13 18:40:45,968] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 9
+                
+                Columna 'price':
+                Promedio: 66.56
+                Maximo: 100
+                Minimo: 19
+
+                Tiempo de insercion fila actual: 
+                Total: 3.24 ms
+                Promedio: 3.13 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:45,975] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 10
+                
+                Columna 'price':
+                Promedio: 61.80
+                Maximo: 100
+                Minimo: 19
+
+                Tiempo de insercion fila actual: 
+                Total: 3.19 ms
+                Promedio: 3.14 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:45,982] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 11
+                
+                Columna 'price':
+                Promedio: 64.82
+                Maximo: 100
+                Minimo: 19
+
+                Tiempo de insercion fila actual: 
+                Total: 3.43 ms
+                Promedio: 3.16 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:45,989] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 12
+                
+                Columna 'price':
+                Promedio: 65.50
+                Maximo: 100
+                Minimo: 19
+
+                Tiempo de insercion fila actual: 
+                Total: 3.48 ms
+                Promedio: 3.19 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:45,990] Batch 3 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:45,991] Transformando microbatch 4
+[LINE:64] #INFO     [2025-02-13 18:40:45,999] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 13
+                
+                Columna 'price':
+                Promedio: 62.92
+                Maximo: 100
+                Minimo: 19
+
+                Tiempo de insercion fila actual: 
+                Total: 3.21 ms
+                Promedio: 3.19 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,006] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 14
+                
+                Columna 'price':
+                Promedio: 65.21
+                Maximo: 100
+                Minimo: 19
+
+                Tiempo de insercion fila actual: 
+                Total: 3.11 ms
+                Promedio: 3.18 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,013] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 15
+                
+                Columna 'price':
+                Promedio: 61.67
+                Maximo: 100
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.01 ms
+                Promedio: 3.17 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,027] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 16
+                
+                Columna 'price':
+                Promedio: 60.12
+                Maximo: 100
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.55 ms
+                Promedio: 3.20 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:46,028] Batch 4 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:46,029] Transformando microbatch 5
+[LINE:64] #INFO     [2025-02-13 18:40:46,037] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 17
+                
+                Columna 'price':
+                Promedio: 58.24
+                Maximo: 100
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 2.77 ms
+                Promedio: 3.17 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,044] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 18
+                
+                Columna 'price':
+                Promedio: 55.56
+                Maximo: 100
+                Minimo: 10
+
+                Tiempo de insercion fila actual: 
+                Total: 3.54 ms
+                Promedio: 3.19 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,051] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 19
+                
+                Columna 'price':
+                Promedio: 54.05
+                Maximo: 100
+                Minimo: 10
+
+                Tiempo de insercion fila actual: 
+                Total: 2.66 ms
+                Promedio: 3.16 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,058] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 20
+                
+                Columna 'price':
+                Promedio: 52.05
+                Maximo: 100
+                Minimo: 10
+
+                Tiempo de insercion fila actual: 
+                Total: 3.49 ms
+                Promedio: 3.18 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:46,058] Batch 5 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:46,060] Transformando microbatch 6
+[LINE:64] #INFO     [2025-02-13 18:40:46,067] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 21
+                
+                Columna 'price':
+                Promedio: 53.71
+                Maximo: 100
+                Minimo: 10
+
+                Tiempo de insercion fila actual: 
+                Total: 2.96 ms
+                Promedio: 3.17 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,075] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 22
+                
+                Columna 'price':
+                Promedio: 54.68
+                Maximo: 100
+                Minimo: 10
+
+                Tiempo de insercion fila actual: 
+                Total: 3.27 ms
+                Promedio: 3.17 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,081] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 23
+                
+                Columna 'price':
+                Promedio: 53.87
+                Maximo: 100
+                Minimo: 10
+
+                Tiempo de insercion fila actual: 
+                Total: 2.83 ms
+                Promedio: 3.16 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,088] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 24
+                
+                Columna 'price':
+                Promedio: 55.12
+                Maximo: 100
+                Minimo: 10
+
+                Tiempo de insercion fila actual: 
+                Total: 3.10 ms
+                Promedio: 3.16 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:46,089] Batch 6 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:46,090] Transformando microbatch 7
+[LINE:64] #INFO     [2025-02-13 18:40:46,098] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 25
+                
+                Columna 'price':
+                Promedio: 55.40
+                Maximo: 100
+                Minimo: 10
+
+                Tiempo de insercion fila actual: 
+                Total: 3.10 ms
+                Promedio: 3.15 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,105] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 26
+                
+                Columna 'price':
+                Promedio: 55.42
+                Maximo: 100
+                Minimo: 10
+
+                Tiempo de insercion fila actual: 
+                Total: 3.18 ms
+                Promedio: 3.16 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,112] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 27
+                
+                Columna 'price':
+                Promedio: 54.00
+                Maximo: 100
+                Minimo: 10
+
+                Tiempo de insercion fila actual: 
+                Total: 3.01 ms
+                Promedio: 3.15 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,119] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 28
+                
+                Columna 'price':
+                Promedio: 54.36
+                Maximo: 100
+                Minimo: 10
+
+                Tiempo de insercion fila actual: 
+                Total: 3.54 ms
+                Promedio: 3.16 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:46,120] Batch 7 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:46,121] Transformando microbatch 8
+[LINE:64] #INFO     [2025-02-13 18:40:46,129] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 29
+                
+                Columna 'price':
+                Promedio: 54.83
+                Maximo: 100
+                Minimo: 10
+
+                Tiempo de insercion fila actual: 
+                Total: 3.00 ms
+                Promedio: 3.16 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:46,129] Batch 8 procesado
+[LINE:91] #INFO     [2025-02-13 18:40:46,130] 
+        ---- Procesamiento archivos ----
+        Archivo ./data/2012-2.csv 
+        Tiempo actual: 232.16 ms
+
+        Total de archivos
+        Tiempo promedio: 238.19 ms
+        Tiempo maximo: 244.22 ms
+        Tiempo minimo: 232.16 ms
+        
+[LINE:20] #INFO     [2025-02-13 18:40:46,130] Leyendo archivo ./data/2012-3.csv
+[LINE:35] #INFO     [2025-02-13 18:40:46,132] Transformando microbatch 1
+[LINE:64] #INFO     [2025-02-13 18:40:46,140] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 1
+                
+                Columna 'price':
+                Promedio: 75.00
+                Maximo: 75
+                Minimo: 75
+
+                Tiempo de insercion fila actual: 
+                Total: 2.94 ms
+                Promedio: 2.94 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,147] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 2
+                
+                Columna 'price':
+                Promedio: 43.50
+                Maximo: 75
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.24 ms
+                Promedio: 3.09 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,154] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 3
+                
+                Columna 'price':
+                Promedio: 52.67
+                Maximo: 75
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.26 ms
+                Promedio: 3.15 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,161] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 4
+                
+                Columna 'price':
+                Promedio: 57.75
+                Maximo: 75
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.31 ms
+                Promedio: 3.19 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:46,162] Batch 1 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:46,163] Transformando microbatch 2
+[LINE:64] #INFO     [2025-02-13 18:40:46,171] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 5
+                
+                Columna 'price':
+                Promedio: 50.40
+                Maximo: 75
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.03 ms
+                Promedio: 3.16 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,178] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 6
+                
+                Columna 'price':
+                Promedio: 46.50
+                Maximo: 75
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.42 ms
+                Promedio: 3.20 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,186] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 7
+                
+                Columna 'price':
+                Promedio: 51.43
+                Maximo: 81
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.20 ms
+                Promedio: 3.20 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,194] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 8
+                
+                Columna 'price':
+                Promedio: 57.38
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.40 ms
+                Promedio: 3.23 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:46,195] Batch 2 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:46,196] Transformando microbatch 3
+[LINE:64] #INFO     [2025-02-13 18:40:46,206] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 9
+                
+                Columna 'price':
+                Promedio: 58.67
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.82 ms
+                Promedio: 3.29 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,214] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 10
+                
+                Columna 'price':
+                Promedio: 54.70
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 4.13 ms
+                Promedio: 3.38 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,222] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 11
+                
+                Columna 'price':
+                Promedio: 52.64
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.19 ms
+                Promedio: 3.36 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,230] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 12
+                
+                Columna 'price':
+                Promedio: 56.17
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 4.11 ms
+                Promedio: 3.42 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:46,231] Batch 3 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:46,232] Transformando microbatch 4
+[LINE:64] #INFO     [2025-02-13 18:40:46,240] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 13
+                
+                Columna 'price':
+                Promedio: 57.31
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 2.68 ms
+                Promedio: 3.36 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,247] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 14
+                
+                Columna 'price':
+                Promedio: 57.71
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.32 ms
+                Promedio: 3.36 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,254] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 15
+                
+                Columna 'price':
+                Promedio: 57.40
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 2.94 ms
+                Promedio: 3.33 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,262] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 16
+                
+                Columna 'price':
+                Promedio: 59.25
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.05 ms
+                Promedio: 3.32 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:46,262] Batch 4 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:46,263] Transformando microbatch 5
+[LINE:64] #INFO     [2025-02-13 18:40:46,271] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 17
+                
+                Columna 'price':
+                Promedio: 61.00
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.01 ms
+                Promedio: 3.30 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,278] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 18
+                
+                Columna 'price':
+                Promedio: 58.33
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.25 ms
+                Promedio: 3.29 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,285] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 19
+                
+                Columna 'price':
+                Promedio: 59.16
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.11 ms
+                Promedio: 3.29 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,291] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 20
+                
+                Columna 'price':
+                Promedio: 60.40
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.14 ms
+                Promedio: 3.28 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:46,292] Batch 5 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:46,293] Transformando microbatch 6
+[LINE:64] #INFO     [2025-02-13 18:40:46,301] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 21
+                
+                Columna 'price':
+                Promedio: 58.38
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 2.77 ms
+                Promedio: 3.25 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,308] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 22
+                
+                Columna 'price':
+                Promedio: 57.18
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.35 ms
+                Promedio: 3.26 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,315] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 23
+                
+                Columna 'price':
+                Promedio: 58.87
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 2.89 ms
+                Promedio: 3.24 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,321] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 24
+                
+                Columna 'price':
+                Promedio: 58.67
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.18 ms
+                Promedio: 3.24 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:46,322] Batch 6 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:46,323] Transformando microbatch 7
+[LINE:64] #INFO     [2025-02-13 18:40:46,331] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 25
+                
+                Columna 'price':
+                Promedio: 59.60
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.05 ms
+                Promedio: 3.23 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,338] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 26
+                
+                Columna 'price':
+                Promedio: 60.15
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.20 ms
+                Promedio: 3.23 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,345] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 27
+                
+                Columna 'price':
+                Promedio: 60.11
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 2.74 ms
+                Promedio: 3.21 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,352] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 28
+                
+                Columna 'price':
+                Promedio: 59.14
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.28 ms
+                Promedio: 3.22 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:46,352] Batch 7 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:46,353] Transformando microbatch 8
+[LINE:64] #INFO     [2025-02-13 18:40:46,361] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 29
+                
+                Columna 'price':
+                Promedio: 58.69
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.08 ms
+                Promedio: 3.21 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,368] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 30
+                
+                Columna 'price':
+                Promedio: 59.50
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.01 ms
+                Promedio: 3.20 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,374] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 31
+                
+                Columna 'price':
+                Promedio: 59.68
+                Maximo: 99
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 2.88 ms
+                Promedio: 3.19 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:46,375] Batch 8 procesado
+[LINE:91] #INFO     [2025-02-13 18:40:46,375] 
+        ---- Procesamiento archivos ----
+        Archivo ./data/2012-3.csv 
+        Tiempo actual: 245.18 ms
+
+        Total de archivos
+        Tiempo promedio: 240.52 ms
+        Tiempo maximo: 245.18 ms
+        Tiempo minimo: 232.16 ms
+        
+[LINE:20] #INFO     [2025-02-13 18:40:46,376] Leyendo archivo ./data/2012-4.csv
+[LINE:35] #INFO     [2025-02-13 18:40:46,377] Transformando microbatch 1
+[LINE:64] #INFO     [2025-02-13 18:40:46,384] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 1
+                
+                Columna 'price':
+                Promedio: 87.00
+                Maximo: 87
+                Minimo: 87
+
+                Tiempo de insercion fila actual: 
+                Total: 3.01 ms
+                Promedio: 3.01 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,391] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 2
+                
+                Columna 'price':
+                Promedio: 65.00
+                Maximo: 87
+                Minimo: 43
+
+                Tiempo de insercion fila actual: 
+                Total: 3.13 ms
+                Promedio: 3.07 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,398] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 3
+                
+                Columna 'price':
+                Promedio: 51.00
+                Maximo: 87
+                Minimo: 23
+
+                Tiempo de insercion fila actual: 
+                Total: 2.92 ms
+                Promedio: 3.02 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,405] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 4
+                
+                Columna 'price':
+                Promedio: 61.00
+                Maximo: 91
+                Minimo: 23
+
+                Tiempo de insercion fila actual: 
+                Total: 3.04 ms
+                Promedio: 3.02 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:46,405] Batch 1 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:46,406] Transformando microbatch 2
+[LINE:64] #INFO     [2025-02-13 18:40:46,415] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 5
+                
+                Columna 'price':
+                Promedio: 65.00
+                Maximo: 91
+                Minimo: 23
+
+                Tiempo de insercion fila actual: 
+                Total: 3.36 ms
+                Promedio: 3.09 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,421] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 6
+                
+                Columna 'price':
+                Promedio: 65.50
+                Maximo: 91
+                Minimo: 23
+
+                Tiempo de insercion fila actual: 
+                Total: 2.64 ms
+                Promedio: 3.02 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,428] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 7
+                
+                Columna 'price':
+                Promedio: 64.86
+                Maximo: 91
+                Minimo: 23
+
+                Tiempo de insercion fila actual: 
+                Total: 3.11 ms
+                Promedio: 3.03 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,435] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 8
+                
+                Columna 'price':
+                Promedio: 58.38
+                Maximo: 91
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 2.78 ms
+                Promedio: 3.00 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:46,435] Batch 2 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:46,436] Transformando microbatch 3
+[LINE:64] #INFO     [2025-02-13 18:40:46,444] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 9
+                
+                Columna 'price':
+                Promedio: 53.22
+                Maximo: 91
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.65 ms
+                Promedio: 3.07 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,451] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 10
+                
+                Columna 'price':
+                Promedio: 54.00
+                Maximo: 91
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 2.74 ms
+                Promedio: 3.04 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,458] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 11
+                
+                Columna 'price':
+                Promedio: 54.82
+                Maximo: 91
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.42 ms
+                Promedio: 3.07 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,464] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 12
+                
+                Columna 'price':
+                Promedio: 57.58
+                Maximo: 91
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 2.61 ms
+                Promedio: 3.03 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:46,464] Batch 3 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:46,466] Transformando microbatch 4
+[LINE:64] #INFO     [2025-02-13 18:40:46,474] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 13
+                
+                Columna 'price':
+                Promedio: 58.00
+                Maximo: 91
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.38 ms
+                Promedio: 3.06 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,482] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 14
+                
+                Columna 'price':
+                Promedio: 57.43
+                Maximo: 91
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.96 ms
+                Promedio: 3.12 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,490] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 15
+                
+                Columna 'price':
+                Promedio: 60.07
+                Maximo: 97
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.52 ms
+                Promedio: 3.15 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,497] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 16
+                
+                Columna 'price':
+                Promedio: 61.94
+                Maximo: 97
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.19 ms
+                Promedio: 3.15 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:46,498] Batch 4 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:46,499] Transformando microbatch 5
+[LINE:64] #INFO     [2025-02-13 18:40:46,507] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 17
+                
+                Columna 'price':
+                Promedio: 61.94
+                Maximo: 97
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.35 ms
+                Promedio: 3.16 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,514] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 18
+                
+                Columna 'price':
+                Promedio: 62.94
+                Maximo: 97
+                Minimo: 12
+
+                Tiempo de insercion fila actual: 
+                Total: 3.03 ms
+                Promedio: 3.16 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,522] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 19
+                
+                Columna 'price':
+                Promedio: 60.00
+                Maximo: 97
+                Minimo: 10.0
+
+                Tiempo de insercion fila actual: 
+                Total: 3.52 ms
+                Promedio: 3.18 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,529] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 20
+                
+                Columna 'price':
+                Promedio: 57.95
+                Maximo: 97
+                Minimo: 10.0
+
+                Tiempo de insercion fila actual: 
+                Total: 2.75 ms
+                Promedio: 3.16 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:46,529] Batch 5 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:46,530] Transformando microbatch 6
+[LINE:64] #INFO     [2025-02-13 18:40:46,538] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 21
+                
+                Columna 'price':
+                Promedio: 58.45
+                Maximo: 97
+                Minimo: 10.0
+
+                Tiempo de insercion fila actual: 
+                Total: 3.64 ms
+                Promedio: 3.18 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,545] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 22
+                
+                Columna 'price':
+                Promedio: 59.33
+                Maximo: 97
+                Minimo: 10.0
+
+                Tiempo de insercion fila actual: 
+                Total: 2.85 ms
+                Promedio: 3.16 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,552] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 23
+                
+                Columna 'price':
+                Promedio: 57.50
+                Maximo: 97
+                Minimo: 10.0
+
+                Tiempo de insercion fila actual: 
+                Total: 3.36 ms
+                Promedio: 3.17 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,559] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 24
+                
+                Columna 'price':
+                Promedio: 58.57
+                Maximo: 97
+                Minimo: 10.0
+
+                Tiempo de insercion fila actual: 
+                Total: 2.70 ms
+                Promedio: 3.15 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:46,560] Batch 6 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:46,561] Transformando microbatch 7
+[LINE:64] #INFO     [2025-02-13 18:40:46,570] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 25
+                
+                Columna 'price':
+                Promedio: 57.92
+                Maximo: 97
+                Minimo: 10.0
+
+                Tiempo de insercion fila actual: 
+                Total: 3.23 ms
+                Promedio: 3.16 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,576] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 26
+                
+                Columna 'price':
+                Promedio: 57.80
+                Maximo: 97
+                Minimo: 10.0
+
+                Tiempo de insercion fila actual: 
+                Total: 3.14 ms
+                Promedio: 3.16 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,583] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 27
+                
+                Columna 'price':
+                Promedio: 57.80
+                Maximo: 97
+                Minimo: 10.0
+
+                Tiempo de insercion fila actual: 
+                Total: 3.04 ms
+                Promedio: 3.15 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,590] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 28
+                
+                Columna 'price':
+                Promedio: 57.62
+                Maximo: 97
+                Minimo: 10.0
+
+                Tiempo de insercion fila actual: 
+                Total: 3.30 ms
+                Promedio: 3.16 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:46,591] Batch 7 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:46,592] Transformando microbatch 8
+[LINE:64] #INFO     [2025-02-13 18:40:46,600] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 29
+                
+                Columna 'price':
+                Promedio: 56.70
+                Maximo: 97
+                Minimo: 10.0
+
+                Tiempo de insercion fila actual: 
+                Total: 3.25 ms
+                Promedio: 3.16 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,607] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 30
+                
+                Columna 'price':
+                Promedio: 57.39
+                Maximo: 97
+                Minimo: 10.0
+
+                Tiempo de insercion fila actual: 
+                Total: 2.88 ms
+                Promedio: 3.15 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:46,608] Batch 8 procesado
+[LINE:91] #INFO     [2025-02-13 18:40:46,608] 
+        ---- Procesamiento archivos ----
+        Archivo ./data/2012-4.csv 
+        Tiempo actual: 232.26 ms
+
+        Total de archivos
+        Tiempo promedio: 238.46 ms
+        Tiempo maximo: 245.18 ms
+        Tiempo minimo: 232.16 ms
+        
+[LINE:20] #INFO     [2025-02-13 18:40:46,608] Leyendo archivo ./data/2012-5.csv
+[LINE:35] #INFO     [2025-02-13 18:40:46,610] Transformando microbatch 1
+[LINE:64] #INFO     [2025-02-13 18:40:46,618] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 1
+                
+                Columna 'price':
+                Promedio: 82.00
+                Maximo: 82
+                Minimo: 82
+
+                Tiempo de insercion fila actual: 
+                Total: 3.40 ms
+                Promedio: 3.40 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,624] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 2
+                
+                Columna 'price':
+                Promedio: 71.50
+                Maximo: 82
+                Minimo: 61
+
+                Tiempo de insercion fila actual: 
+                Total: 2.88 ms
+                Promedio: 3.14 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,633] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 3
+                
+                Columna 'price':
+                Promedio: 54.00
+                Maximo: 82
+                Minimo: 19
+
+                Tiempo de insercion fila actual: 
+                Total: 3.82 ms
+                Promedio: 3.37 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,639] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 4
+                
+                Columna 'price':
+                Promedio: 64.00
+                Maximo: 94
+                Minimo: 19
+
+                Tiempo de insercion fila actual: 
+                Total: 2.97 ms
+                Promedio: 3.27 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:46,640] Batch 1 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:46,641] Transformando microbatch 2
+[LINE:64] #INFO     [2025-02-13 18:40:46,649] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 5
+                
+                Columna 'price':
+                Promedio: 54.60
+                Maximo: 94
+                Minimo: 17
+
+                Tiempo de insercion fila actual: 
+                Total: 2.98 ms
+                Promedio: 3.21 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,656] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 6
+                
+                Columna 'price':
+                Promedio: 48.67
+                Maximo: 94
+                Minimo: 17
+
+                Tiempo de insercion fila actual: 
+                Total: 3.32 ms
+                Promedio: 3.23 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,663] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 7
+                
+                Columna 'price':
+                Promedio: 51.14
+                Maximo: 94
+                Minimo: 17
+
+                Tiempo de insercion fila actual: 
+                Total: 2.97 ms
+                Promedio: 3.19 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,670] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 8
+                
+                Columna 'price':
+                Promedio: 46.38
+                Maximo: 94
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.03 ms
+                Promedio: 3.17 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:46,670] Batch 2 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:46,671] Transformando microbatch 3
+[LINE:64] #INFO     [2025-02-13 18:40:46,683] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 9
+                
+                Columna 'price':
+                Promedio: 44.67
+                Maximo: 94
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 4.08 ms
+                Promedio: 3.27 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,691] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 10
+                
+                Columna 'price':
+                Promedio: 49.70
+                Maximo: 95
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.53 ms
+                Promedio: 3.30 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,700] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 11
+                
+                Columna 'price':
+                Promedio: 52.18
+                Maximo: 95
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 4.15 ms
+                Promedio: 3.38 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,709] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 12
+                
+                Columna 'price':
+                Promedio: 49.17
+                Maximo: 95
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 4.26 ms
+                Promedio: 3.45 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:46,710] Batch 3 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:46,711] Transformando microbatch 4
+[LINE:64] #INFO     [2025-02-13 18:40:46,720] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 13
+                
+                Columna 'price':
+                Promedio: 47.08
+                Maximo: 95
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.14 ms
+                Promedio: 3.43 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,727] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 14
+                
+                Columna 'price':
+                Promedio: 50.21
+                Maximo: 95
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 2.89 ms
+                Promedio: 3.39 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,734] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 15
+                
+                Columna 'price':
+                Promedio: 49.80
+                Maximo: 95
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.00 ms
+                Promedio: 3.36 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,741] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 16
+                
+                Columna 'price':
+                Promedio: 51.94
+                Maximo: 95
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 2.85 ms
+                Promedio: 3.33 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:46,741] Batch 4 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:46,742] Transformando microbatch 5
+[LINE:64] #INFO     [2025-02-13 18:40:46,751] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 17
+                
+                Columna 'price':
+                Promedio: 52.65
+                Maximo: 95
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.43 ms
+                Promedio: 3.34 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,757] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 18
+                
+                Columna 'price':
+                Promedio: 54.33
+                Maximo: 95
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 2.86 ms
+                Promedio: 3.31 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,764] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 19
+                
+                Columna 'price':
+                Promedio: 53.05
+                Maximo: 95
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.38 ms
+                Promedio: 3.31 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,771] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 20
+                
+                Columna 'price':
+                Promedio: 53.50
+                Maximo: 95
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 2.79 ms
+                Promedio: 3.29 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:46,771] Batch 5 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:46,773] Transformando microbatch 6
+[LINE:64] #INFO     [2025-02-13 18:40:46,781] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 21
+                
+                Columna 'price':
+                Promedio: 55.19
+                Maximo: 95
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.04 ms
+                Promedio: 3.27 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,788] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 22
+                
+                Columna 'price':
+                Promedio: 56.68
+                Maximo: 95
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.27 ms
+                Promedio: 3.27 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,795] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 23
+                
+                Columna 'price':
+                Promedio: 55.70
+                Maximo: 95
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.01 ms
+                Promedio: 3.26 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,801] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 24
+                
+                Columna 'price':
+                Promedio: 57.54
+                Maximo: 100
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.03 ms
+                Promedio: 3.25 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:46,802] Batch 6 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:46,803] Transformando microbatch 7
+[LINE:64] #INFO     [2025-02-13 18:40:46,811] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 25
+                
+                Columna 'price':
+                Promedio: 58.32
+                Maximo: 100
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.04 ms
+                Promedio: 3.24 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,818] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 26
+                
+                Columna 'price':
+                Promedio: 59.58
+                Maximo: 100
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.15 ms
+                Promedio: 3.24 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,825] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 27
+                
+                Columna 'price':
+                Promedio: 59.63
+                Maximo: 100
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.02 ms
+                Promedio: 3.23 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,832] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 28
+                
+                Columna 'price':
+                Promedio: 59.89
+                Maximo: 100
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.24 ms
+                Promedio: 3.23 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:46,832] Batch 7 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:46,833] Transformando microbatch 8
+[LINE:64] #INFO     [2025-02-13 18:40:46,842] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 29
+                
+                Columna 'price':
+                Promedio: 59.17
+                Maximo: 100
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.30 ms
+                Promedio: 3.24 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,849] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 30
+                
+                Columna 'price':
+                Promedio: 59.10
+                Maximo: 100
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.12 ms
+                Promedio: 3.23 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:46,856] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 31
+                
+                Columna 'price':
+                Promedio: 58.26
+                Maximo: 100
+                Minimo: 13
+
+                Tiempo de insercion fila actual: 
+                Total: 3.59 ms
+                Promedio: 3.24 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:46,857] Batch 8 procesado
+[LINE:91] #INFO     [2025-02-13 18:40:46,857] 
+        ---- Procesamiento archivos ----
+        Archivo ./data/2012-5.csv 
+        Tiempo actual: 248.82 ms
+
+        Total de archivos
+        Tiempo promedio: 240.53 ms
+        Tiempo maximo: 248.82 ms
+        Tiempo minimo: 232.16 ms
+        
+[LINE:2] #INFO     [2025-02-13 18:40:50,311] Validando informacion
+[LINE:4] #INFO     [2025-02-13 18:40:50,314] 
+    Total de registros: 143
+    Precio maximo: 100.0
+    Precio minimo: 10.0
+    Precio promedio: 57.88
+
+[LINE:1] #INFO     [2025-02-13 18:40:52,550] Cargando solo archivo de validacion
+[LINE:3] #INFO     [2025-02-13 18:40:52,550] ---- Inicio del Pipeline ----
+[LINE:20] #INFO     [2025-02-13 18:40:52,551] Leyendo archivo ./data/validation.csv
+[LINE:35] #INFO     [2025-02-13 18:40:52,553] Transformando microbatch 1
+[LINE:64] #INFO     [2025-02-13 18:40:52,562] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 1
+                
+                Columna 'price':
+                Promedio: 26.00
+                Maximo: 26
+                Minimo: 26
+
+                Tiempo de insercion fila actual: 
+                Total: 3.49 ms
+                Promedio: 3.49 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:52,570] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 2
+                
+                Columna 'price':
+                Promedio: 18.50
+                Maximo: 26
+                Minimo: 11
+
+                Tiempo de insercion fila actual: 
+                Total: 3.32 ms
+                Promedio: 3.41 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:52,578] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 3
+                
+                Columna 'price':
+                Promedio: 16.67
+                Maximo: 26
+                Minimo: 11
+
+                Tiempo de insercion fila actual: 
+                Total: 3.64 ms
+                Promedio: 3.48 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:52,585] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 4
+                
+                Columna 'price':
+                Promedio: 35.50
+                Maximo: 92
+                Minimo: 11
+
+                Tiempo de insercion fila actual: 
+                Total: 3.05 ms
+                Promedio: 3.37 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:52,586] Batch 1 procesado
+[LINE:35] #INFO     [2025-02-13 18:40:52,587] Transformando microbatch 2
+[LINE:64] #INFO     [2025-02-13 18:40:52,595] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 5
+                
+                Columna 'price':
+                Promedio: 34.60
+                Maximo: 92
+                Minimo: 11
+
+                Tiempo de insercion fila actual: 
+                Total: 3.87 ms
+                Promedio: 3.47 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:52,602] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 6
+                
+                Columna 'price':
+                Promedio: 39.17
+                Maximo: 92
+                Minimo: 11
+
+                Tiempo de insercion fila actual: 
+                Total: 2.81 ms
+                Promedio: 3.36 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:52,609] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 7
+                
+                Columna 'price':
+                Promedio: 35.43
+                Maximo: 92
+                Minimo: 11
+
+                Tiempo de insercion fila actual: 
+                Total: 3.19 ms
+                Promedio: 3.34 ms
+
+                
+[LINE:64] #INFO     [2025-02-13 18:40:52,616] 
+                ----------- Pipeline Metrics -----------
+                - Sales Table:
+                    Total de filas: 8
+                
+                Columna 'price':
+                Promedio: 41.75
+                Maximo: 92
+                Minimo: 11
+
+                Tiempo de insercion fila actual: 
+                Total: 3.05 ms
+                Promedio: 3.30 ms
+
+                
+[LINE:81] #INFO     [2025-02-13 18:40:52,617] Batch 2 procesado
+[LINE:91] #INFO     [2025-02-13 18:40:52,617] 
+        ---- Procesamiento archivos ----
+        Archivo ./data/validation.csv 
+        Tiempo actual: 66.62 ms
+
+        Total de archivos
+        Tiempo promedio: 66.62 ms
+        Tiempo maximo: 66.62 ms
+        Tiempo minimo: 66.62 ms
+        
+[LINE:1] #INFO     [2025-02-13 18:40:56,314] Validando informacion
+[LINE:3] #INFO     [2025-02-13 18:40:56,317] 
+    Total de registros: 151
+    Precio maximo: 100.0
+    Precio minimo: 10.0
+    Precio promedio: 57.01
+

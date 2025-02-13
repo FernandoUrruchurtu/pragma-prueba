@@ -13,8 +13,6 @@ from database.database import Database
 
 def pipeline(file_list:Generator[str, None, None], plsqldb:Database, chunks:int, logs:Logger):
 
-    
-
     tl_file = []
     for file in file_list:
 

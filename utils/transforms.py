@@ -43,7 +43,7 @@ def add_timestamp(df:pd.DataFrame) -> pd.DataFrame:
         DataFrame: Data Frame con la columna 'load_date' con el dia de hoy.
     """
 
-    df["load_date"] = datetime.now().strftime('%Y-%m-%d %H:%M')
+    df["load_date"] = pd.to_datetime("now")
     
     return df
 
