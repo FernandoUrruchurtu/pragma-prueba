@@ -9,20 +9,17 @@ class PipelineLogs:
     def __init__(self, name, file_name, console:bool = True, file:bool = True):
         
         self.log_file = file_name
-        self.console = console
-        self.file = file
         self.loggers = logging.getLogger(name)
         self.loggers.setLevel(logging.DEBUG)
 
         if len(self.loggers.handlers)==0:
-            self.__log_definition(self.console, self.file)
+            self.__log_definition(console, file)
 
     def __log_definition(self, console:bool = True, file:bool = True):
 
         formatter = logging.Formatter(
             "[LINE:%(lineno)d] #%(levelname)-8s [%(asctime)s] %(message)s"
         )
-
 
         if file:
 
@@ -40,5 +37,3 @@ class PipelineLogs:
     def pipeline_logs(self):
 
         return self.loggers
-        
-logs = PipelineLogs('DataPipe Logs', 'pipeline logs').pipeline_logs()

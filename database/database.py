@@ -160,7 +160,7 @@ class Database:
         else:
             print("Table not found")
 
-    def update(self, row:dict, table:str, update:bool = True): 
+    def update(self, row:dict, table:str): 
 
         """Realiza setencia update, solo sobre la tabla sales, para otras tablas se debe definir
 

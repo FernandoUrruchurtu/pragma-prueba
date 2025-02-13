@@ -49,7 +49,7 @@ def pipeline(
                 )
                 
             for row in df.itertuples(index=False):
-                
+                logs.info
                 rows, calendar_row = row_dict_transform(row)
 
                 total_filas+=1
