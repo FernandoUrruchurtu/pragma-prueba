@@ -3,7 +3,14 @@ from dotenv import load_dotenv
 
 
 def _env(name:str) -> str:
+    """Funcion privada para encontrar la variable de entorno designada
 
+    Args:
+        name (str): Descripcion de la variable
+
+    Returns:
+        str: retorna el valor de la variable
+    """
     env_var = os.getenv(name)
 
     if env_var is None:

@@ -8,20 +8,13 @@ import utils.dbconfig as dbc
 from utils.functions   import list_datafile, batch_processing
 from utils.transforms  import add_timestamp, parse_date, row_dict_transform
 ## Clases necesarias
-from utils.logs        import PipelineLogs
+from utils.logs        import Logs
 from database.database import Database
 
-def pipeline(
-        file_list:Generator[str, None, None], 
-        plsqldb:Database, 
-        chunks:int, 
-        logs:Logger
-        ):
+def pipeline(file_list:Generator[str, None, None], plsqldb:Database, chunks:int, logs:Logger):
 
-    """
-    Pipeline para insercion y mantenimiento de los datos
-    """
     
+
     tl_file = []
     for file in file_list:
 
@@ -108,6 +101,8 @@ def pipeline(
         Tiempo maximo: {max_time:.2f} ms
         Tiempo minimo: {min_time:.2f} ms
         """)
+        
+        
 
 if __name__ == "__main__":
     USER = dbc.DB_USER
@@ -121,6 +116,6 @@ if __name__ == "__main__":
 
     plsqldb = Database(HOST, USER, PWD, DB)
 
-    logs = PipelineLogs("pipeline-prove", "pipeline.log").pipeline_logs()
+    logs = Logs("pipeline-prove", "pipeline.log").pipeline_logs()
 
     pipeline(pathlist, plsqldb, CHUNKSIZE, logs)

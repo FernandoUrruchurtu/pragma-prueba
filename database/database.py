@@ -1,7 +1,7 @@
 from typing import Dict, Any
 from sqlalchemy import create_engine, text, and_
 from sqlalchemy import MetaData, Engine
-from sqlalchemy import Table, Column, Integer, Date, DateTime, Float, ForeignKey, String
+from sqlalchemy import Table, Column, Integer, Date, DateTime, Float, String
 
 
 class Database:
@@ -110,7 +110,7 @@ class Database:
             conn.execute(stmt)
             conn.commit()
 
-    def select(self, query:str):
+    def sql(self, query:str):
         """Metodo para realizar querys de select sobre la base de datos
 
         Args:
@@ -149,11 +149,13 @@ class Database:
         if table in self.tables:
 
             if table == 'calendar':
+                
+                ## Si encuentra que el registro ya se encuentra 
                 try:
                     stmt = self.tables[table].insert().values(rows)
                     return self.__upserts(stmt)
                 except Exception:
-                    print('>Table calendar already has this date')
+                    return None
             else:
                 stmt = self.tables[table].insert().values(rows)
                 return self.__upserts(stmt)

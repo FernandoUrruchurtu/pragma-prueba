@@ -3,8 +3,10 @@ import sys
 import logging
 import logging.handlers
 
-
-class PipelineLogs:
+class Logs:
+    """Clase Logs que inicializa el logger para guardar un archivo
+    e imprimir en consola
+    """
 
     def __init__(self, name, file_name, console:bool = True, file:bool = True):
         
