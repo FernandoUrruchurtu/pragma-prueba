@@ -1,3 +1,5 @@
+from datetime import datetime
+
 import pandas as pd
 from typing import Tuple, Dict
 
@@ -35,23 +37,26 @@ def row_dict_transform(row:pd.Series) -> Tuple[Dict, Dict]:
 
 def add_timestamp(df:pd.DataFrame) -> pd.DataFrame:
 
-    """_summary_
-
+    """Adiciona al dataframe una columna de tipo timestamp con la fecha de carga actual
+    
     Returns:
-        _type_: _description_
+        DataFrame: Data Frame con la columna 'load_date' con el dia de hoy.
     """
 
-    df["load_date"] = pd.to_datetime("now")
+    df["load_date"] = datetime.now().strftime('%Y-%m-%d %H:%M')
+    
     return df
 
 def parse_date(df:pd.DataFrame) -> pd.DataFrame:
 
-    """_summary_
+    """Transforma la columna timestamp a tipo datetime
 
     Returns:
-        _type_: _description_
+        DataFrame: Data Frame con la columna 'timestamp' en formato datetime.
     """
 
     df["timestamp"] = pd.to_datetime(df["timestamp"], format="%m/%d/%Y")
+    
+    
     return df
 
