@@ -11,6 +11,8 @@ def row_dict_transform(row:pd.Series) -> Tuple[Dict, Dict]:
         Tuple[Dict, Dict]: Tupla con dos diccionarios, uno para ventas y otro generando un diccionario
     """
 
+    # Calcula los rows de la tabla sales
+    
     rows = {
         "user_id":row.user_id,
         "timestamp":row.timestamp.strftime('%Y-%m-%d'),
