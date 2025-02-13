@@ -1,7 +1,7 @@
 import pandas as pd
 from typing import Tuple, Dict
 
-def row_loads(row:pd.Series) -> Tuple[Dict, Dict]:
+def row_dict_transform(row:pd.Series) -> Tuple[Dict, Dict]:
     """_summary_
 
     Args:
@@ -14,7 +14,7 @@ def row_loads(row:pd.Series) -> Tuple[Dict, Dict]:
     rows = {
         "user_id":row.user_id,
         "timestamp":row.timestamp.strftime('%Y-%m-%d'),
-        "price":row.price,
+        "price":None if pd.isna(row.price) else row.price,
         "load_date":row.load_date.strftime('%Y-%m-%d %H:%M:%S')
     }
 

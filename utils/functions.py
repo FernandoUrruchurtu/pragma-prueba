@@ -11,7 +11,7 @@ def list_datafile(path:str, validation=False) -> Generator[str, None, None]:
         validation (bool, optional): _description_. Defaults to False.
 
     Yields:
-        Generator[str, None, None]: _description_
+        Generator: _description_
     """
 
     files = sorted([

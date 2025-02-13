@@ -1,13 +1,13 @@
 from .functions import list_datafile
 from .logs import PipelineLogs, logs
-
-from .transforms import add_timestamp, parse_date, row_loads
+from .dbconfig import *
+from .transforms import add_timestamp, parse_date, row_dict_transform
 
 __all__ = [
     "list_datafile",
     "PipelineLogs",
     "logs",
-    "row_loads",
+    "row_dict_transform",
     "add_timestamp",
     "parse_date",
 ]
