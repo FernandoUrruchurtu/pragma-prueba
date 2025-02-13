@@ -45,3 +45,6 @@ En este repo se trabaja con docker-compose para replicar facilmente el ejercicio
 6. Ejecutar archivo en un jupyter notebook ```dataRangers.ipynb```. 
 
 [![Web](https://img.shields.io/badge/GitHub-FernandoUrruchurtu-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/FernandoUrruchurtu)
+
+
+https://github.com/FernandoUrruchurtu/pragma-prueba.git
